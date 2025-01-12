@@ -62,7 +62,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
-#2
+# 2
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
